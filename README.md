@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+## Sorting Visualizer
+- Inspired by Clement, I built a Sorting Visualizer with various alogorithms using **ReactJS** ([link](https://mufratkarim.github.io/sorting-visualizer/))
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+:white_check_mark:  Control Visualization Speed<br><br>
+:white_check_mark:  Randomize Input<br><br>
+:white_check_mark:  Choose various algorithms<br><br>
+:wrench: Stop visualization<br><br>
+:wrench: User controller step-by-step visualization<br><br>
+:wrench: Visualization with sound<br><br>
+
+## Algorithms to Visualize
+:white_check_mark:  Bubble Sort<br><br>
+:white_check_mark:  Insertion Sort<br><br>
+:white_check_mark:  Selection Sort<br><br>
+:white_check_mark:  QuickSort <br><br>
+:white_check_mark:  Merge Sort<br><br>
+:white_check_mark:  Heap Sort<br><br>
+:wrench: Count Sort<br><br>
+:wrench: Radix Sort<br><br>
+
+## Examples
+<img src="https://github.com/mufratkarim/sorting-visualizer/blob/dev/src/videotogif.gif">
 
 ## Available Scripts
 
